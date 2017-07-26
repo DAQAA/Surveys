@@ -4,6 +4,7 @@ Paragon IT Emerging Leadership Forum - Evaluation and Follow-Up form
 - What didn't work in today's meeting? (areas for improvement)
 - What follow up actions are needed?
 - Rate today's speaker, <insert name> (1-10 scale, 10 being the highest)
+
 On a scale of 1-10
 - How would you rate the applicability of today's presentation to your business? and to your needs?
 - How would you rate the speaker's presentation style?
